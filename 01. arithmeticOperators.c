@@ -38,6 +38,8 @@ int main() {
 	
 	printf("\n");
 	
+	//Decrement 
+	
 	for (numTwo; numTwo > 0 ; numTwo--) {
 		printf("Decrement Result: %d\n", numTwo);
 	}
