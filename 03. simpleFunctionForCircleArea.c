@@ -17,4 +17,6 @@ float circleArea(float r) {
 	float area;
 	
 	area = M_PI * r * r;
+	
+	return area;
 }
