@@ -13,6 +13,7 @@ int main() {
 	
 	printf("The Square Area is: %.2f", result);
 	
+	return 0;
 }
 
 float squareArea(float a) {
