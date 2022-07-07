@@ -11,6 +11,8 @@ int main() {
 	
 	result = circleArea(radius);
 	printf("The Circle Area Radius is: %.2f", result);
+	
+	return 0;
 }
 
 float circleArea(float r) {
